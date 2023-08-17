@@ -15,7 +15,7 @@ My name is Purushendra Karn, and I am  Data Analyst  from Nepal.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=purushendrakarn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakul1110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
