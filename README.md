@@ -1,6 +1,6 @@
 ![logo](https://lh3.googleusercontent.com/bQRwTojpPxgUJu6TmSbyvvjRP5V6w2I_ihUeVShGpywLGr1y8kw2B8WAb2c_rokjeMxZc3l2UMSC5p-unD0YA8iGmLDIvfgheV7wQC0w)
 # 💫 About Me:
-My name is Purushendra Karn, and I am  Data Analyst  from Nepal.
+My name is Purushendra Karn
 
 
 ## 🌐 Socials:
