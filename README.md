@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/XJnCxRsg/Colorful-geometric-Designer-Linked-In-Banner.png" align="center" style="width: 100%" />
 </div>  
-  
+  <br/>
 
 ### <div align="center">I'm Purushendra Karn, a  full-stack  developer 👨‍💻 working in different projects  since 2021 🚀</div>  
   
@@ -77,8 +77,7 @@
 <a href="https://github.com/purushendrakarn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  <br/>  
-  <br/>  
+  <br/>    
   <br/>  
 <a href="https://linkedin.com/in/purushendra-karn" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
