@@ -90,8 +90,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushendrakarn&hide_border=true&layout=compact" align="center" /></div>  
 
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
 <br/>  
 
 <div align="center">
