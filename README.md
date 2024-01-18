@@ -6,7 +6,7 @@
 ### <div align="center">I'm Purushendra Karn, a  full-stack  developer 👨‍💻 working in different projects  since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Washmandu](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Washmandu](https://www.washmandu.com/)  
   
 
 - 🌱 I’m currently learning Three.js .  
